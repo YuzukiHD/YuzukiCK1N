@@ -21,6 +21,10 @@ It can be used for chip evaluation, program pre-research and personal DIY, and c
 
 ![Nezha D1s Overview](.github/assets/IMG_5495.JPG)
 
+## SDK Software
+
+- https://github.com/YuzukiHD/Buildroot-YuzukiSBC
+
 ## Links
 
 OSHWHub OpenSource (Chinese): https://oshwhub.com/GloomyGhost/yuzukick1n
