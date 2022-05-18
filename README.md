@@ -3,6 +3,8 @@ YuzukiCK1N 86 Panel Solution for IoT and HMI.
 
 ![main](.github/assets/IMG_5492.JPG)
 
+https://oshwhub.com/GloomyGhost/yuzukick1n
+
 ## About
 
 YuzukiCK1N is a basic 86 Panel Solution for IoT based on the Allwinner V3x chip design. Licensed under [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://spdx.org/licenses/CERN-OHL-S-2.0.html)
